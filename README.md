@@ -1,1 +1,1 @@
-# DataViz-challenge
+# DataVisualization-challenge
